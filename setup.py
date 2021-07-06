@@ -41,7 +41,7 @@ CLASSIFIERS = [
 INSTALL_REQUIRES = [
     "numpy>=1.13.3",
     "scipy>=0.19.1",
-    "scikit-learn>=0.24",
+    "scikit-learn>=0.23",
     "joblib>=0.11",
 ]
 EXTRAS_REQUIRE = {
